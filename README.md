@@ -11,7 +11,7 @@
 
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&width=435&lines=%7B+name%3A+%22Danil+Sliadniev%22%2C+age%3A+19%27%5D+%7D;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&width=435&lines=%7B+%22name%22%3A+%22Danil+Sliadniev%22%2C+%22age%22%3A+19+%7D" alt="Typing SVG" />
 </a> <br />
 
 I am a Python developer with no experience yet. My skills include database management, testing, web server, API design and integration, and a deep understanding of ORM (Object-Relational Mapping) principles.
@@ -92,13 +92,13 @@ I am a Python developer with no experience yet. My skills include database manag
 
 ## Connect with Me
 <div align="center"> 
-  <a href="mailto:abdugani.lapasov2005@gmail.com">
+  <a href="mailto:abdugani.sladnevdanil78@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/abdug-ani-lapasov-502809292/" target="_blank">
+  <a href="https://www.linkedin.com/in/danil-sliadniev-157506329/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://t.me/Lapasov_0408" target="_blank">
+  <a href="https://t.me/ignoramus3" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </div>
