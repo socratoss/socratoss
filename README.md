@@ -10,7 +10,9 @@
 <img align="right" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/programming.gif">
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&width=435&lines=%7B+name%3A+%22Danil Sliadniev%22%2C+age%3A+19%27%5D+%7D;" alt="Typing SVG" /></a> <br />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&width=435&lines=%7B+name%3A+%22Danil+Sliadniev%22%2C+age%3A+19%27%5D+%7D;" alt="Typing SVG" />
+</a> <br />
 
 I am a Python developer with no experience yet. My skills include database management, testing, web server, API design and integration, and a deep understanding of ORM (Object-Relational Mapping) principles.
 <p>
