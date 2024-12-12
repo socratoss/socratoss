@@ -11,8 +11,7 @@
 
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&width=435&lines={name: Danil Sliadniev, age: 19}" alt="Typing SVG" />
-</a> <br />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&width=435&lines={name: Danil Sliadniev, age: 19}" alt="Typing SVG" /></a> <br />
 
 
 I am a Python developer with no experience yet. My skills include database management, testing, web server, API design and integration, and a deep understanding of ORM (Object-Relational Mapping) principles.
