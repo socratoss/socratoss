@@ -11,7 +11,7 @@
 
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&width=435&lines=name%3A+"Danil+Sliadniev"%2C+age%3A+"19" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&width=435&lines=name%3A+Danil+Sliadniev%2C+age%3A+19 alt="Typing SVG" />
 </a> <br />
 
   
