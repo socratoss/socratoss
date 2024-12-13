@@ -24,12 +24,12 @@ I am a Python developer with no experience yet. My skills include database manag
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=socratoss&show_icons=true&locale=en&layout=compact&theme=dark" alt="yoyo930021" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=socratoss&show_icons=true&locale=en&layout=compact&theme=dark&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=socratoss&show_icons=true&locale=en&theme=dark" alt="yoyo930021" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=socratoss&theme=dark" alt="yoyo930021" />
+  <img src="https://github-readme-stats.vercel.app/api?username=socratoss&show_icons=true&locale=en&theme=dark&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=socratoss&theme=dark&cache_seconds=1800" alt="GitHub Streak Stats" />
 </p>
 
 
@@ -95,7 +95,7 @@ I am a Python developer with no experience yet. My skills include database manag
 
 ## Connect with Me
 <div align="center"> 
-  <a href="mailto:abdugani.sladnevdanil78@gmail.com">
+  <a href="sladnevdanil78@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/danil-sliadniev-157506329/" target="_blank">
