@@ -24,12 +24,12 @@ I am a Python developer with no experience yet. My skills include database manag
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=socratoss&show_icons=true&locale=en&layout=compact&theme=dark" alt="" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=socratoss&show_icons=true&locale=en&layout=compact&theme=dark" alt="yoyo930021" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=socratoss&show_icons=true&locale=en&theme=dark" alt="" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=socratoss&theme=dark" alt="" />
+<img src="https://github-readme-stats.vercel.app/api?username=socratoss&show_icons=true&locale=en&theme=dark" alt="yoyo930021" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=socratoss&theme=dark" alt="yoyo930021" />
 </p>
 
 
