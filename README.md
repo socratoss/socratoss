@@ -84,13 +84,11 @@ I am a Python developer with no experience yet. My skills include database manag
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=socratoss&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+<p align='center'>
+  <img src='https://github.com/samandareo/samandareo/blob/main/snake.svg'></img>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=socratoss&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=socratoss&theme=dark" alt="GitHub Streak Stats" />
+<p align='center'>
+  <a href="https://www.digitalocean.com/?refcode=b09378418f34&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
 </p>
 
 ## Connect with Me
